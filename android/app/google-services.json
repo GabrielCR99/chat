@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "637778061748",
+    "firebase_url": "https://chatflutter-76ca3.firebaseio.com",
+    "project_id": "chatflutter-76ca3",
+    "storage_bucket": "chatflutter-76ca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637778061748:android:63fef1a9d66acca2b86ae1",
+        "android_client_info": {
+          "package_name": "br.com.roveri.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637778061748-fkksdu0q5gpi16g6hvvcuj0uu1u9vgaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.roveri.chat",
+            "certificate_hash": "987282b335acda56b64cc67118c34dfa7277adf7"
+          }
+        },
+        {
+          "client_id": "637778061748-vpeqp39o2ibuqf4cp4i1ii806sc6n8cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnJuNWxv9MLn4VfbQ31WRbjiGv5UHx6WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637778061748-vpeqp39o2ibuqf4cp4i1ii806sc6n8cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
