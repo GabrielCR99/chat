@@ -4,12 +4,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 
 void main() async {
   runApp(MyApp());
-
-  Firestore.instance.collection('messages').snapshots().listen((onData) {
-    onData.documents.forEach((d) {
-      print(d.data);
-    });
-  });
 }
 
 class MyApp extends StatelessWidget {
